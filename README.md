@@ -1,3 +1,6 @@
+## DATE : 23.02.2024
+## EXPERIMENT : 02
+
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 ## AIM:
